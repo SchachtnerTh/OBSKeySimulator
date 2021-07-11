@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OBSKeySimulator", "OBSKeySimulator\OBSKeySimulator.vcxproj", "{E5780204-E82C-49C8-9C63-508ADA93C424}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OBS Key Simulator", "OBS Key Simulator\OBS Key Simulator.vdproj", "{8BFB3E48-C3AC-4261-938E-6A61C541C4A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5780204-E82C-49C8-9C63-508ADA93C424}.Debug|x64.ActiveCfg = Debug|x64
+		{E5780204-E82C-49C8-9C63-508ADA93C424}.Debug|x64.Build.0 = Debug|x64
+		{E5780204-E82C-49C8-9C63-508ADA93C424}.Debug|x86.ActiveCfg = Debug|Win32
+		{E5780204-E82C-49C8-9C63-508ADA93C424}.Debug|x86.Build.0 = Debug|Win32
+		{E5780204-E82C-49C8-9C63-508ADA93C424}.Release|x64.ActiveCfg = Release|x64
+		{E5780204-E82C-49C8-9C63-508ADA93C424}.Release|x64.Build.0 = Release|x64
+		{E5780204-E82C-49C8-9C63-508ADA93C424}.Release|x86.ActiveCfg = Release|Win32
+		{E5780204-E82C-49C8-9C63-508ADA93C424}.Release|x86.Build.0 = Release|Win32
+		{8BFB3E48-C3AC-4261-938E-6A61C541C4A8}.Debug|x64.ActiveCfg = Debug
+		{8BFB3E48-C3AC-4261-938E-6A61C541C4A8}.Debug|x86.ActiveCfg = Debug
+		{8BFB3E48-C3AC-4261-938E-6A61C541C4A8}.Release|x64.ActiveCfg = Release
+		{8BFB3E48-C3AC-4261-938E-6A61C541C4A8}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5D75E05-F288-4C43-99D0-814EA95D111F}
+	EndGlobalSection
+EndGlobal
